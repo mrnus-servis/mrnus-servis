@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mrnus-servis
 - 👀 I’m intereste  astronomie
--učím se  s raspberry  astroberry 
+-I'm learning raspberry  astroberry 
 -  android, linux
 - 📫  +420 605 726 576
-Sporitelní 1062, Frýdlant nad Ostravicí, 739 11
+ 739 11
 https://mrnus.cz
 
 
